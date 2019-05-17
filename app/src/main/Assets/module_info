@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "packageName": "com.hai.jackie.hairoute"
+    },
+    {
+      "packageName": "com.hai.jackie.other_module"
+    }
+  ]
+}
